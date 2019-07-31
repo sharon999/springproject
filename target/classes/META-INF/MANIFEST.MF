@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 12.0.1
+Implementation-Title: myproject
+Implementation-Version: 0.0.3
+Implementation-Vendor-Id: io.sharon
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/myproject
+Created-By: Maven Integration for Eclipse

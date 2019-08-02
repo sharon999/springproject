@@ -27,12 +27,9 @@ public class ItemDTO  {
 	public long getID() {
  	    return this.id;
  			  }
-		/*	public long getID() {
-					 return this.id1;
-				 }*/
+	
     public ItemDTO(Long id, int itemCode, String itemName, String  inventory_code, int quantity) {
-    //    super(id);
-			this.id=id;
+	this.id=id;
         this.itemCode =itemCode;
         this.itemName = itemName;
         this.inventory_code =  inventory_code;
